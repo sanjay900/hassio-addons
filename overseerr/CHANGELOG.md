@@ -1,4 +1,6 @@
 
+## 1.32.6 (31-05-2023)
+- Enable ingress
 ## 1.32.5 (04-02-2023)
 - Update to latest version from linuxserver/docker-overseerr
 
