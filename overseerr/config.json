@@ -55,7 +55,7 @@
     "/dev/nvme2"
   ],
   "environment": {},
-  "image": "ghcr.io/alexbelgium/overseerr-{arch}",
+  "image": "ghcr.io/sanjay900/overseerr-{arch}",
   "ingress": true,
   "ingress_entry": "overseerr",
   "init": false,
@@ -84,6 +84,5 @@
   },
   "slug": "overseerr",
   "url": "https://github.com/alexbelgium/hassio-addons/tree/master/overseerr",
-  "version": "1.32.7",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:5055]"
+  "version": "1.32.6"
 }
