@@ -1,3 +1,5 @@
+### 1.32.7 (31-05-2023)
+- Minor bugs fixed
 
 ## 1.32.6 (31-05-2023)
 - Enable ingress
